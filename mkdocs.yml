@@ -4,7 +4,7 @@ theme:
   name: material
   palette:
     scheme: default # or slate for dark-mode
-    primary: custom
+    primary: light blue
     accent: custom
 
   font:
